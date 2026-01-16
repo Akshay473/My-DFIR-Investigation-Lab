@@ -1,2 +1,6 @@
-# My-DFIR-Investigation-Lab
-My journey from scratch to experienced using the cyber forensic intelligence repository.
+# Digital Forensics Journey
+This repository documents my training to become a job-ready DFIR Specialist.
+
+Lab Environment
+Hypervisor: VirtualBox
+Analysis VM: Customized Kali Linux (Xu Repository)
